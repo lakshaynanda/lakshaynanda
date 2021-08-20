@@ -1,4 +1,18 @@
 <h1 align="center">Hi! My name is Lakshay <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+```javascript
+const Lakshay = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [Vue, Vuex, Node, Styled-Components, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        #1: "IEEE Computer Society",
+                        #2: "Apple Developers Group",
+                        #3: "Project Transform"
+                      },
+ challenge: "I am doing the #DaysOfCode challenge focused on Vue and AWS, Django"
+}
+```
 
 <h3 align="center">Aspiring Software Engineer. Currently a graduate student at USC. </h3>
 
