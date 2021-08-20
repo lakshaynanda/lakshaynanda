@@ -1,6 +1,6 @@
 <h1 align="center">Hi! My name is Lakshay <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 ###
-```javascript
+```js
 const Lakshay = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
