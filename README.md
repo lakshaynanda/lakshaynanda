@@ -2,8 +2,8 @@
 
 ```js
 const Lakshay = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  pronouns: "he" | "him" | "his",
+  code: [Javascript, HTML, CSS, Sass, Python, Java],
   tools: [Vue, Vuex, Node, Styled-Components, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
@@ -11,7 +11,7 @@ const Lakshay = {
                         #2: "Apple Developers Group",
                         #3: "Project Transform"
                       },
- challenge: "I am doing the #DaysOfCode challenge focused on Vue and AWS, Django"
+ challenge: "I am doing the #DaysOfCode challenge focused on Vue, AWS and Django"
 }
 ```
 
