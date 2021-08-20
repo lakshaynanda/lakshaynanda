@@ -1,12 +1,10 @@
-<!-- [![Header](/assets/Header.png)](https://github.com/gargpriyam21) -->
-
 <h1 align="center">Hi, This is Lakshay <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <h3 align="center">Software Engineer </h3>
 
 <p align="center">
   <em>
-    <b><i align="center">A Enthusiastic Learner</b>👨🏻‍💻 and a <b>Sophophile📚 </i></b>
+    <b><i align="center">Enthusiastic Learner</b>👨🏻‍💻 and a <b>Sophophile📚 </i></b>
   </em> 
   <br><br>
 </p>
@@ -36,7 +34,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lakshay-nanda-22b842153/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lakshay_nanda/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/lakshaynanda08)
-<!-- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/priyamgarg21) -->
 
 </div>
 
