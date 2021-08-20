@@ -1,6 +1,6 @@
 <h1 align="center">Hi! My name is Lakshay <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">Aspiring Software Engineer. Currently a graduate student at (https://raw.githubusercontent.com/USCbiostats/badges/master/tommy-uscprevmed-badge.svg) . </h3>
+<h3 align="center">Aspiring Software Engineer. Currently a graduate student at ![](tommy-uscprevmed-badge.svg) . </h3>
 
 <p align="center">
   <em>
