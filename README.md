@@ -11,7 +11,7 @@ const Lakshay = {
                         #2: "Apple Developers Group",
                         #3: "Project Transform"
                       },
- challenge: "I am doing the #DaysOfCode challenge focused on Vue, AWS and Django"
+ challenge: "I am doing the #DaysOfCode challenge focused on Java from Leetcode"
 }
 ```
 
