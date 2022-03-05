@@ -3,8 +3,8 @@
 ```js
 const Lakshay = {
   pronouns: "he" | "him" | "his",
-  code: [Javascript, HTML, CSS, Sass, Python, Java],
-  tools: [Vue, Vuex, Node, Styled-Components, Docker],
+  code: [ Java, C#, Javascript, HTML, CSS, Sass, Python],
+  Frameworks: [Vue, Vuex, Node, Express, Django, Styled-Components, Docker, Unity],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         #1: "IEEE Computer Society",
